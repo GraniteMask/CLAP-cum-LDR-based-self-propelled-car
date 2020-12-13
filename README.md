@@ -2,7 +2,7 @@
 
 This  project is aimed towards building a model of a car which is self-propelled. This model consists of two specific circuits in which first circuit is CLAP switch circuit and the second one is a LDR based Dark mode circuit. Each of these circuits are connected with separate 9 V DC source. The LDR-Dark circuit is connected with a motor and headlight.
 
-![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
+![CLAP-cum-LDR-based-self-propelled-car](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/master/CLAP_cum_LDR_based_self_propelled_car.jpg?raw=true)
 
 ## Abstract:
 
@@ -20,7 +20,7 @@ This project has two major circuits. First circuit has Clap mechanism in which w
 
 ## Circuit Diagram:
 
-![Sociogram Home Page](https://github.com/GraniteMask/sociogram-1/blob/master/sociogram.png?raw=true)
+![circuit_diagram](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/master/circuit_diagram.png?raw=true)
 
 ## Components Required:
 
@@ -29,13 +29,13 @@ This project has two major circuits. First circuit has Clap mechanism in which w
 3.	Wires	As per requirement
 4.	Dielectric Capacitor (100 µF)	2-3
 5.	Resistance 
-      	10K Ω - 4
-      	220 Ω - 1
-      	1M Ω	-  1
+      	10K Ω - 4,
+      	220 Ω - 1,
+      	1M Ω	-  1
 
 6. Transistor 
-      	BC 547  -  2
-      	BC 548	-  1
+      	BC 547  -  2,
+      	BC 548	-  1
 7.	Diode (1N4007)	1
 8.	LDR 	1
 9.	Motor	2
