@@ -2,7 +2,7 @@
 
 This  project is aimed towards building a model of a car which is self-propelled. This model consists of two specific circuits in which first circuit is CLAP switch circuit and the second one is a LDR based Dark mode circuit. Each of these circuits are connected with separate 9 V DC source. The LDR-Dark circuit is connected with a motor and headlight.
 
-![CLAP-cum-LDR-based-self-propelled-car](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/master/CLAP_cum_LDR_based_self_propelled_car.jpg?raw=true)
+![CLAP-cum-LDR-based-self-propelled-car](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/main/CLAP_cum_LDR_based_self_propelled_car.jpg?raw=true)
 
 ## Abstract:
 
@@ -20,7 +20,7 @@ This project has two major circuits. First circuit has Clap mechanism in which w
 
 ## Circuit Diagram:
 
-![circuit_diagram](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/master/circuit_diagram.png?raw=true)
+![circuit_diagram](https://github.com/GraniteMask/CLAP-cum-LDR-based-self-propelled-car/blob/main/circuit_diagram.png?raw=true)
 
 ## Components Required:
 
@@ -60,3 +60,8 @@ As soon as we turn on the second switch, the car starts moving and the headlight
 ## Future Scopes:
 
 Same circuit can be used in industries to stop certain movements which requires immediate and minute actions like while moving a weight from one place to another, if something wrong is going to happen the supervisor can stop the system by clapping only.
+
+## My Fellow Team-mates:
+
+1) Mangolik Kundu
+2) Supratim Majumder
